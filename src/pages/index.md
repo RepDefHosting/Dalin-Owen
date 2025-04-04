@@ -1,7 +1,7 @@
 ---
 missionStatement: "{{mission_statement}}"
 templateKey: index-page
-pageTitle: Client's Name
+pageTitle: Dalin Owen
 pageContent: Since joining the web-based **restaurant review** company in its
   startup phase, **Chandler Villacruz** has spearheaded *market research*
   activities that have allowed the firm to build *effective advertising*
@@ -12,12 +12,13 @@ learnMoreButton:
 subheader: Client's Subtitle
 pageSlug: /
 featuredImage:
-  src: /img/naturehero.png
+  src: /img/businesshero2.png
   alt: Hero Image for home page
   caption: null
 header: Client Name
-metaDescription: First paragraph of Clients Bio. That would meet the character
-  count range, and have the clients name in the Meta Data
+metaDescription: A resident of Miami, Florida, Dalin Owen has served as the
+  chief executive officer of an Edmonton, Alberta-based information technology
+  (IT) consulting firm.
 published: true
 profileButton:
   link: /profile
@@ -32,4 +33,4 @@ shortBiography: Since joining the web-based restaurant review company in its
 schemaType: WebPage
 showRecentPosts: false
 ---
-First paragraph of clients bio. And feel free to link clients name out to different **[blog sites](google.com)**
+A resident of Miami, Florida, Dalin Owen has served as the chief executive officer of an Edmonton, Alberta-based information technology (IT) consulting firm. He oversees all business and IT operations, which include programming, IT administration, and IT security. He takes a holistic approach to IT upgrades and strives to help each client reach optimal efficiency and performance. Dalin Owen is particularly skilled at improving IT activities in corporate office environments.
