@@ -3,9 +3,8 @@ templateKey: blog-archive
 pageSlug: /blog
 pageTitle: Blog
 subheader: null
-metaDescription: A blog is a type of website or online platform where
-  individuals or groups regularly post content, typically in the form of
-  articles, diary entries, or commentary on various topics.
+metaDescription: "Before launching his IT consulting firm in 2006, Dalin Owen
+  spent more than six years with the Zenon Corporation. "
 published: true
 schemaType: WebPage
 header: Blog
